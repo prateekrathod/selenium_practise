@@ -30,7 +30,7 @@ driver.find_element(By.NAME, "demo59708").send_keys("Einfochips")
 
 driver.find_element(By.NAME, "demo59709").send_keys("1234567890")
 
-select_country = Select(driver.find_element(By.NAME, "demo59710")).select_by_value('441')
+select_country = Select(driver.find_element(By.NAME, "demo59710")).select_by_value('324')
 
 driver.find_element(By.NAME, "demo59713").send_keys("Raipur")
 
